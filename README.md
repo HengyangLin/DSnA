@@ -1,1 +1,1 @@
-# THis the repo for study data structure and algorithm.
+# This the repo for study data structure and algorithm.
