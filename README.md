@@ -1,1 +1,1 @@
-# DSnA
+# THis the repo for study data structure and algorithm.
